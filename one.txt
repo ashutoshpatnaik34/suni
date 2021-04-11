@@ -1,6 +1,8 @@
 This is  my  first code.
 This is my  second code.
 
-this is my third code.
-(this is harish logic)
+
+This is my third code.
+(this is sniku logic)
+
 
